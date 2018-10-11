@@ -46,9 +46,11 @@ Two ways to run:
 
 2. use app URL
 
-## Quick Demo 
+## Quick Demo
 
-![](./doc/demo.gif)
+- on ios Simulator, iphone xs max
+
+![on Simulator](./doc/demo.gif)
 
 ## Authors
 

@@ -34,11 +34,11 @@ yarn install
 
 After installing, you may see some info.
 
-› Press a to open Android device or emulator, or i to open iOS emulator.
-› Press s to send the app URL to your phone number or email address
-› Press q to display QR code.
-› Press r to restart packager, or R to restart packager and clear cache.
-› Press d to toggle development mode. (current mode: development)
+* Press a to open Android device or emulator, or i to open iOS emulator.
+* Press s to send the app URL to your phone number or email address
+* Press q to display QR code.
+* Press r to restart packager, or R to restart packager and clear cache.
+* Press d to toggle development mode. (current mode: development)
 
 Two ways to run:
 
